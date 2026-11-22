@@ -1,5 +1,5 @@
 # Pactly
-
+Live app : https://pactly-live.vercel.app
 **Every deal, sealed in chat.**
 
 Pactly is a campus peer-to-peer app for verified students. You can post a **task** (errands, notes, design work), **sell or rent** things, or **share a ride**. Every deal then happens inside a Nexconn-powered chat: the offer, the counter-offer, the agreement, the payment hand-off and the review all happen on a live **Deal Card**, so both people always see the same state.
