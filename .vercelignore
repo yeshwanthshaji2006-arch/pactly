@@ -1,0 +1,9 @@
+.env*
+!.env.example
+.agents
+.claude
+.next
+node_modules
+scripts/e2e
+*.png
+!public/**

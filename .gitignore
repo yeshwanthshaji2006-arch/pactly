@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# keep the template
+!.env.example
+
+# e2e artifacts
+scripts/e2e/*.png
+!scripts/e2e/pay-qr.png
+
+.vercel
+.env*
